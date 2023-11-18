@@ -88,3 +88,5 @@ B (+/-)	80–89
 C (+/-)	70–79
 D (+/-)	60–69
 F (+/-)	< 60
+
+-- Inspiration derived from https://github.com/alplky/sql-challenge
